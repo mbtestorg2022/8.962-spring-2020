@@ -4,7 +4,7 @@ title: Lecture Summaries
 uid: f20f292f-de3c-3f30-813c-74354d742878
 ---
 
-This ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Guide (PDF)]({{< baseurl >}}/resources/mit8_962s20_guide) contains more detailed summaries of the lectures than the information in the table. Copies of [Prof. Hughes’s handwritten course notes](https://web.mit.edu/sahughes/www/8.962/index.html) are also available.
+This [Lecture Guide (PDF)]({{< baseurl >}}/resources/mit8_962s20_guide) contains more detailed summaries of the lectures than the information in the table. Copies of [Prof. Hughes’s handwritten course notes](https://web.mit.edu/sahughes/www/8.962/index.html) are also available.
 
 {{< tableopen >}}
 {{< theadopen >}}
